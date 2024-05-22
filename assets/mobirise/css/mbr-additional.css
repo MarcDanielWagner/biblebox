@@ -1152,8 +1152,8 @@ a {
   }
 }
 .cid-udakqAPh86 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-udakqAPh86 .mbr-fallback-image.disabled {
@@ -1209,8 +1209,8 @@ a {
   color: #008eff;
 }
 .cid-udfDrK6k6w {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-udfDrK6k6w img,
@@ -1268,9 +1268,20 @@ a {
   text-align: left;
   color: #232323;
 }
+.cid-udsNyQGkgM {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-udsNyQGkgM .line {
+  background-color: #008eff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-udfGl4Olq7 {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-udfGl4Olq7 .mbr-fallback-image.disabled {
@@ -1316,6 +1327,7 @@ a {
 .cid-udfGl4Olq7 .mbr-cardtext,
 .cid-udfGl4Olq7 .mbr-section-btn {
   color: #008eff;
+  text-align: center;
 }
 .cid-udfBRfgPUx {
   padding-top: 2rem;
@@ -1352,7 +1364,7 @@ a {
   justify-content: space-between;
 }
 .cid-udfBRfgPUx .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-udfBRfgPUx .mbr-text,
 .cid-udfBRfgPUx .mbr-section-btn {
@@ -1365,6 +1377,7 @@ a {
 .cid-udfBRfgPUx .mbr-cardtext,
 .cid-udfBRfgPUx .mbr-section-btn {
   color: #008eff;
+  text-align: center;
 }
 .cid-udePomuCFC {
   padding-top: 30px;
@@ -1747,8 +1760,8 @@ a {
   }
 }
 .cid-udqR2IuQOT {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-udqR2IuQOT .mbr-fallback-image.disabled {
@@ -2737,8 +2750,8 @@ a {
   }
 }
 .cid-udfMVyqXMj {
-  padding-top: 8rem;
-  padding-bottom: 5rem;
+  padding-top: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-udfMVyqXMj .mbr-fallback-image.disabled {
@@ -2782,7 +2795,7 @@ a {
   color: #ffffff;
 }
 .cid-udfNn2CZjm {
-  padding-top: 10rem;
+  padding-top: 4rem;
   padding-bottom: 10rem;
   background-color: #ffffff;
 }
